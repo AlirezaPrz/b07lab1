@@ -33,6 +33,6 @@ public class Polynomial{
     }
 
     public boolean hasRoot(double x){
-        return evaluate(x) == 0.0;
+        return Math.abs(evaluate(x)) < 1e-9;
     }
 }
