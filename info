@@ -1,1 +1,5 @@
+Lab 1: CSCB07 – Software Design (Fall 2025)
 
+This repository contains the files for Lab 1:
+- Polynomial.java: Implements a Polynomial class with constructors, add, evaluate, and hasRoot methods.
+- Driver.java: A driver class to test the Polynomial implementation.
